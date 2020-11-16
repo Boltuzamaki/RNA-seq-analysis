@@ -1,0 +1,2 @@
+cmapPy==4.0.1
+seaborn
